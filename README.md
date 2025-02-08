@@ -18,5 +18,8 @@ step2:push things you have downloaded to github
        go to the website you have created
  for this archive :
  it is https://dsa21ewq.github.io/cs61a.org/
+
+
+ !!!there is still something 404,and im looking for why
        
         
