@@ -47,5 +47,7 @@ step2:push things you have downloaded to github
 
 
  !!!there is still something 404,and im looking for why
-       
+
+
+ you can do it yourself😊      
         
