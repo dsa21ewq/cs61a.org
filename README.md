@@ -14,6 +14,7 @@ typing:
     
 step2:push things you have downloaded to github 
     usually you can get what you want through if you are in windows like that
+    
         1.win+E
         
         2.\\wsl$\ in the goto blank
@@ -27,13 +28,13 @@ step2:push things you have downloaded to github
 
         
  step3:
-       go for settings which in the right up corner
+       1.go for settings which in the right up corner
        
-       in the left find "pages"
+       2.in the left find "pages"
        
        choose jekyll or static html... or other workflow
        
-       the workflow helps build your website
+       3.the workflow helps build your website
        
        then you get your website in the same place(refresh it)
        
