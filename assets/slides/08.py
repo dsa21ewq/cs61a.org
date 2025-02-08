@@ -65,7 +65,7 @@ def slope(f, x, a=1e-10):
     return (f(x+a) - f(x)) / a
 
 def newton_update(f):
-    """Return the Newton update for f.""" 
+    """Return the Newton update for f."""
     return lambda x: x - f(x) / slope(f, x)
 
 def sqrt(a):
